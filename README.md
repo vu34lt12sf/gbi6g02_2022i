@@ -1,18 +1,12 @@
 # BIOINFORMÁTICA 2022I
+Borre esta línea
+Inserte un logo 
 ## DATOS PERSONALES
-- Gualapuro Moisés
-- Biotecnólogo
-- Otavalo
-- Indígena
-- Kichwa, Español
+
 
 ## DETALLES DEL EQUIPO
-1. Windows 10 64 bits 
-2. Procesador AMD FX-8320E Eight Core Processor 3.22 GHz
-3. RAM 8 GB
+Inserte un video de Youtube (sobre cómo ver las propiedades del computador )
 
-## EJECUCIÓN 
+## DETALLES DE PROGRAMAS 
 
-En este repositorio se tiene almacenado las tareas, la data y los exámenes de la clase de Bioinformática.
 
-Uso de Github Desktop para control de la versión. 
