@@ -1,0 +1,2 @@
+ n*.txt tiene 0 columnas es par
+ n*.txt tiene 0 columnas es par
